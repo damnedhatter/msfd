@@ -1,0 +1,6 @@
+Begin do-once_script
+
+[]; do stuff here
+
+StopScript do-once_script
+End
